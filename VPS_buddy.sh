@@ -391,6 +391,10 @@ echo "installing httprobe"
 go get -u github.com/tomnomnom/httprobe 
 echo "done"
 
+echo "installing subgen"
+go get -u github.com/pry0cc/subgen
+echo "done"
+
 echo "installing ppscanner"
 go get -u github.com/Raywando/ppscanner
 echo "done"
